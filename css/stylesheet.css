@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(61, 56, 63);
+}
+
+.yellow {
+    color: rgb(245, 245, 38);
+}
+
+.orange {
+    color: rgb(255, 145, 0);
+}
+
+.violet {
+    color: rgb(176, 20, 248);
+}
+
+.green {
+    color: rgb(14, 209, 14);
+}
+
+.red {
+    color: red;
+}
